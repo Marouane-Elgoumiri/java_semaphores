@@ -5,6 +5,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
+
 ## What is a Semaphore? 🤔
 A semaphore is like a traffic light for threads in concurrent programming. It controls access to shared resources by maintaining a count of available permits. Think of it as a bouncer at a club that only allows a certain number of people in at once!
 
