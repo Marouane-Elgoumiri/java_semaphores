@@ -143,7 +143,9 @@ Features:
 
 To run the visualization:
 ```bash
-git clone https://github.com/yourusername/semaphore-visualization.git
+git clone https://git clone https://github.com/yourusername/semaphore-visualization.git
+cd semaphore-visualization
+./gradlew run.git
 cd semaphore-visualization
 ./gradlew run
 ```
