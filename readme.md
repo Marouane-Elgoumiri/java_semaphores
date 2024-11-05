@@ -9,6 +9,10 @@
 ## What is a Semaphore? 🤔
 A semaphore is like a traffic light for threads in concurrent programming. It controls access to shared resources by maintaining a count of available permits. Think of it as a bouncer at a club that only allows a certain number of people in at once!
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/b94d04b6-171c-4aec-9c41-eb23b01a765f" style="max-width: 20%; height: 50%;" alt="Screenshot from 2024-11-05 22-01-14">
+</div>
+
 ## 🎯 Key Concepts
 - **Permits**: The number of threads allowed to access a resource simultaneously
 - **acquire()**: Gets a permit (if available) or waits
@@ -227,9 +231,10 @@ Semaphores are often used to manage a pool of shared resources, limiting the num
 | **File Handles** | Semaphores ensure that the number of concurrent file operations does not exceed the available resources. |
 
 ### 2. Rate Limiting
-
+<div align="center">
+    
 ![image](https://github.com/user-attachments/assets/83bbbde1-c081-4450-b975-6e1a04ee667a)
-
+</div>
 Semaphores can be used to implement rate-limiting mechanisms, ensuring that clients or consumers do not exceed their request quota.
 
 | Use Case | Description |
