@@ -137,7 +137,7 @@ if (semaphore.tryAcquire(5, TimeUnit.SECONDS)) {
 ## 🎮 Visual Learning Tool
 This repository includes a Java Swing application that visualizes how semaphores work:
 
-![Screenshot from 2024-11-05 00-01-59](https://github.com/user-attachments/assets/4be8413f-b042-4f94-a3a6-77c365027966)
+![2024-11-0519-20-43-ezgif com-optimize](https://github.com/user-attachments/assets/8f63ad76-14a6-4956-94c3-e0b8e0c2e1df)
 
 
 Features:
